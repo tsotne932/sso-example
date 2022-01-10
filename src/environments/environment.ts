@@ -3,7 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  crossStorageUrl: 'https://api-um2.municipal.gov.ge/cross-storage.html',
 };
 
 /*

@@ -1,0 +1,10 @@
+{
+  "/api": {
+    "target": "https://api-um2.municipal.gov.ge",
+    "secure": false,
+    "changeOrigin": true,
+    "pathRewrite":{
+      "^/api":""
+    }
+  }
+}
